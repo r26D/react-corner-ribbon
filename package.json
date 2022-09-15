@@ -1,6 +1,6 @@
 {
     "name": "react-corner-ribbon",
-    "version": "0.0.5",
+    "version": "0.1.0",
     "description": "React Corner Ribbon Component",
     "homepage": "https://github.com/shotforsky/corner-ribbon",
     "keywords": [
@@ -19,9 +19,9 @@
         "build": "webpack"
     },
     "peerDependencies": {
-        "prop-types": "^15.6.0",
-        "react": "^16.0.0",
-        "react-dom": "^16.0.0"
+        "prop-types": "^15.0.0",
+        "react": "^17.0.0",
+        "react-dom": "^17.0.0"
     },
     "devDependencies": {
         "babel-core": "^6.21.0",
