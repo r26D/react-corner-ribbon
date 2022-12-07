@@ -23,7 +23,7 @@ class CornerRibbon extends React.Component {
             position = 'top-right',
             containerStyle: userContainerStyle,
             className,
-            ...rest,
+            ...rest
         } = this.props;
 
         let positionStyle = {};
